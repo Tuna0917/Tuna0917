@@ -1,7 +1,7 @@
 ### Hi there 👋
 https://tuna0917.github.io/ <br>
 https://todrkrgodehd.tistory.com/5 sql <br>
-https://todrkrgodehd.tistory.com/13 bank 
+
 <!--
 **Tuna0917/Tuna0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
