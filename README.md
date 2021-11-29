@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tuna0917&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Tuna0917's github stats](https://github-readme-stats.vercel.app/api?username=Tuna0917&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuna0917&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 dvdrental-Desktop : postgreSQL의 Sample DB로 비디오 대여 기능을 만들어봤다. <br> 
