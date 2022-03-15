@@ -3,9 +3,9 @@
 ## 🌱 I experienced
 
 <div>
-  <img src="https://img.shields.io/badge/Python-5175A7?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DF3E?style=flat-square&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-8bc34a?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-tomato?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white"/>
