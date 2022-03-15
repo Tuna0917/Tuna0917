@@ -3,12 +3,12 @@
 ## 🌱 I experienced
 
 <div>
-<img src="https://img.shields.io/badge/Python-5175A7?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F0DF3E?style=flat-square&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-8bc34a?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-0078ff?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-tomato?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2d317a?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-5175A7?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DF3E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-8bc34a?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-tomato?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white"/>
 </div>
 
 dvdrental-Desktop : postgreSQL의 Sample DB로 비디오 대여 기능을 만들어봤다. <br> 
