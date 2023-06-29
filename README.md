@@ -20,6 +20,9 @@
 ### I google...
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
+
+## Memo
+[PlanetScale](https://planetscale.com/) - serverless MySQL platform
 <!-- 
 ## 🌱 I want to use
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,graphql,prisma)](https://skillicons.dev) 
