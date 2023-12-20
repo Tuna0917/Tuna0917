@@ -1,7 +1,4 @@
 <!-- [![Tuna0917's github stats](https://github-readme-stats.vercel.app/api?username=Tuna0917&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics" />
-</p>
 
 ### There may be nothing I can't do in the world.
 
@@ -9,8 +6,11 @@
 세상에 불가능한 일은 없다.
 
 아마도.
-
 ```
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" />
+</p>
 
 ## 🔭 I’m working on
 
